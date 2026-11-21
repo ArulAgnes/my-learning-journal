@@ -1,0 +1,4 @@
+# Runtime artifacts created by the toolkit - do not commit generated reports or backups
+reports/*.html
+.backups/
+*.log

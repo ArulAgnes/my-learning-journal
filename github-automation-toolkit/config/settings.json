@@ -1,0 +1,53 @@
+{
+  "expectedGitHubUsername": "ArulAgnes",
+  "learningRepository": {
+    "name": "github-learning-lab",
+    "visibility": "public",
+    "createIfMissing": false,
+    "defaultBranch": "main",
+    "description": "Hands-on lab repo for learning Git, GitHub, the GitHub CLI and achievement-eligible contributions."
+  },
+  "dryRun": false,
+  "previewMode": true,
+  "pullRequestLab": {
+    "maxPullRequestsPerRun": 3,
+    "selfMergeAllowed": true,
+    "requireChecksPassing": true,
+    "defaultMergeMethod": "squash",
+    "branchPrefix": "lab/"
+  },
+  "issueLab": {
+    "maxIssuesPerRun": 1,
+    "quickdrawWindowMinutes": 5,
+    "requireQualityTitle": true,
+    "minimumTitleLength": 12
+  },
+  "pairExtraordinaire": {
+    "thresholds": [1, 10, 24, 48],
+    "maxMergedPrsToScan": 60
+  },
+  "pullShark": {
+    "thresholds": [2, 16, 128, 1024]
+  },
+  "starstruck": {
+    "thresholds": [16, 128, 512, 4096]
+  },
+  "galaxyBrain": {
+    "thresholds": [2, 8, 16, 32]
+  },
+  "logging": {
+    "maxLogEntries": 1000,
+    "logFile": "data/activity-log.json"
+  },
+  "reports": {
+    "outputFolder": "reports",
+    "keepHistory": true
+  },
+  "safety": {
+    "backupBeforeOverwrite": true,
+    "neverForcePush": true,
+    "neverDeleteRepositories": true,
+    "scanSecretsBeforeCommit": true,
+    "requireConfirmForMerge": true
+  }
+}
