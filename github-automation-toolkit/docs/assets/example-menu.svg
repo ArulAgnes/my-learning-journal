@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="470" viewBox="0 0 760 470">
+  <rect x="0" y="0" width="760" height="470" rx="14" fill="#0d1117"/>
+  <rect x="0" y="0" width="760" height="42" rx="14" fill="#161b22"/>
+  <rect x="0" y="21" width="760" height="21" fill="#161b22"/>
+  <circle cx="26" cy="21" r="6.5" fill="#ff5f57"/>
+  <circle cx="47" cy="21" r="6.5" fill="#febc2e"/>
+  <circle cx="68" cy="21" r="6.5" fill="#28c840"/>
+  <text x="380" y="26" text-anchor="middle" font-family="'Segoe UI',Consolas,monospace" font-size="14" fill="#8b949e">RUN-GITHUB-TOOLKIT.bat</text>
+  <g font-family="Consolas,'Cascadia Mono',monospace" font-size="15.5">
+    <text x="34" y="78" fill="#22d3ee">==============================================</text>
+    <text x="34" y="100" fill="#e6edf3">   GITHUB AUTOMATION &amp; LEARNING LAB</text>
+    <text x="34" y="122" fill="#22d3ee">==============================================</text>
+    <text x="34" y="152" fill="#58a6ff">ACCOUNT: ArulAgnes</text>
+    <text x="34" y="174" fill="#3fb950">AUTHENTICATION: CONNECTED</text>
+    <text x="34" y="210" fill="#e6edf3">[1]  Achievement Dashboard</text>
+    <text x="34" y="232" fill="#e6edf3">[2]  Pull Request Automation Lab</text>
+    <text x="34" y="254" fill="#e6edf3">[3]  Commit &amp; Repository Learning Lab</text>
+    <text x="34" y="276" fill="#e6edf3">[4]  Issue Automation Lab</text>
+    <text x="34" y="298" fill="#e6edf3">[5]  Repository Manager</text>
+    <text x="34" y="320" fill="#e6edf3">[6]  Achievement Eligibility Guide</text>
+    <text x="34" y="342" fill="#e6edf3">[7]  Activity History</text>
+    <text x="34" y="364" fill="#e6edf3">[8]  Generate HTML Progress Report</text>
+    <text x="34" y="386" fill="#e6edf3">[9]  Open GitHub Profile    [10] Achievements</text>
+    <text x="34" y="420" fill="#8b949e">Choose an option: <tspan fill="#3fb950">_</tspan></text>
+  </g>
+</svg>
